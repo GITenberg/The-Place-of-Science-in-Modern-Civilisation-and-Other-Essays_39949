@@ -1,0 +1,36 @@
+_repo: The-Place-of-Science-in-Modern-Civilisation-and-Other-Essays_39949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Veblen, Thorstein
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '438'
+    url: http://www.gutenberg.org/2009/agents/438
+    wikipedia: http://en.wikipedia.org/wiki/Thorstein_Veblen
+description: ''
+gutenberg_issued: '2012-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39949'
+  lccn: '20006953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcc 'HB'
+- !lcsh 'Economics'
+tableOfContents: The place of science in modern civilisation -- The evolution of the
+  scientific point of view -- Why is economics not an evolutionary science?--The preconceptions
+  of economic science -- Professor Clark's economics -- The limitations of marginal
+  utility -- Gustav Schmoller's economics -- Industrial and pecuniary employments
+  -- On the nature of capital -- Some neglected points in the theory of socialism
+  -- The socialist economics of Karl Marx -- The mutation theory and the blond race
+  -- The blond race and the Aryan culture -- An early experiment in trusts.
+title: The Place of Science in Modern Civilisation, and Other Essays
+url: http://www.gutenberg.org/ebooks/39949
