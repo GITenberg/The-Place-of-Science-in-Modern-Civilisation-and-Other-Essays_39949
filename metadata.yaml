@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/438
     wikipedia: http://en.wikipedia.org/wiki/Thorstein_Veblen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39949#The-Place-of-Science-in-Modern-Civilisation-and-Other-Essays
 gutenberg_issued: '2012-06-08'
 gutenberg_type: Text
 identifiers:
